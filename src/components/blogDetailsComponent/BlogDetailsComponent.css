@@ -1,0 +1,17 @@
+.blog-title {
+    font-weight: 400;
+}
+
+.blog-title a {
+    font-weight: 700;
+}
+
+.blog-detail {
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,2);
+
+    flex-basis: 450px;
+    flex-grow: 1;
+    flex-shrink: 1;
+}

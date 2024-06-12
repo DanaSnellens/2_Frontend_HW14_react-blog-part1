@@ -1,0 +1,25 @@
+nav {
+    color: white;
+    background-color: rgb(44,47,57);
+    width: 100%;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+}
+
+li {
+    padding: 5px;
+}
+.active-menu-link {
+    border-bottom: 1px solid limegreen;
+    color: limegreen;
+}
+
+.default-menu-link {
+    border-bottom: none;
+    color: white;
+
+}
